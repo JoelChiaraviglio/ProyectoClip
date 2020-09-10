@@ -1,0 +1,31 @@
+body{
+    background-image: url(tierra.jpg);
+    background-attachment: fixed;
+}
+h2{
+    font-style: italic;
+    color:white;
+    text-align: center;
+}
+table{
+    background-color:black;
+   height: 100px;
+   
+
+}
+td{
+    border: 2px white solid;
+    text-align: center;
+
+}
+li{
+    color:yellow;
+    font-family: 'Tahoma';
+
+}
+p{
+    color:white;
+    font-style: strong;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+

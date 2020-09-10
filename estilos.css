@@ -1,0 +1,55 @@
+body{
+    background-image: url(123.jpg);
+    background-attachment: fixed;
+}
+
+.bordetitle
+{
+text-align: center;
+color:white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+border-color:black ;
+border-width: 3px;
+border-style: solid;
+background-color:lightslategrey;
+
+
+}
+.borde1
+{
+    text-align: center;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    width: 1350px;
+    border-radius: 30px;
+    background-color:lightskyblue;
+
+}
+.bordeRespuesta
+{
+text-align: center;
+color:white;
+font-size: 30px;
+}
+.bordeBoton
+{
+    width:70px;
+    height:30px; 
+    background-color:aquamarine; 
+    border:0px; 
+    color:black; 
+    font-size:20px;
+    border-radius: 20px; 
+    font-style: solid;
+    
+
+}
+.borderParrafo
+{
+    text-align: center;
+    font-size:50px;
+    color:red;
+
+}
